@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% High-Contrast Styling
     classDef storage fill:#ffffff,stroke:#333,stroke-width:2px,color:#000;
